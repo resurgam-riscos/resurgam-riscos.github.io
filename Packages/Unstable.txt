@@ -8,7 +8,7 @@ Version:1.02
 Description:Run ABC Compiler from command line (in a taskwindow)
 Size:18064
 MD5Sum:ad863d16c08dbe421ad9d28ca1b7963a
-URL:http://www4.webng.com/resurgam/Packages/ABCCLI_1.02.ZIP
+URL:http://resurgam-riscos.github.io/Packages/ABCCLI_1.02.ZIP
 
 Package:ABCCLI
 Section:Development
@@ -20,7 +20,7 @@ Version:1.03
 Description:Run ABC Compiler from command line (in a taskwindow)
 Size:21386
 MD5Sum:2ee8f4a1a799ac78332f2127d4e74376
-URL:http://www4.webng.com/resurgam/Packages/ABCCLI_1.03.ZIP
+URL:http://resurgam-riscos.github.io/Packages/ABCCLI_1.03.ZIP
 
 Package:App2Bas
 Section:Development
@@ -32,7 +32,7 @@ Version:1.15
 Description:Extract BASIC from Absolute
 Size:38562
 MD5Sum:eb3a708b44366aee78997e3671d361d8
-URL:http://www4.webng.com/resurgam/Packages/App2Bas_1.15.ZIP
+URL:http://resurgam-riscos.github.io/Packages/App2Bas_1.15.ZIP
 
 Package:App2Bas
 Section:Development
@@ -44,7 +44,7 @@ Version:1.16
 Description:Extract BASIC from Absolute
 Size:41793
 MD5Sum:90730e6de48bd1675dc4617f09c9d00f
-URL:http://www4.webng.com/resurgam/Packages/App2Bas_1.16.ZIP
+URL:http://resurgam-riscos.github.io/Packages/App2Bas_1.16.ZIP
 
 Package:App2Bas
 Section:Development
@@ -56,7 +56,7 @@ Version:1.17
 Description:Extract BASIC from Absolute
 Size:41304
 MD5Sum:a11d1b13ead968cbadc835aabe40e54b
-URL:http://www4.webng.com/resurgam/Packages/App2Bas_1.17.ZIP
+URL:http://resurgam-riscos.github.io/Packages/App2Bas_1.17.ZIP
 
 Package:EzROOL
 Section:File
@@ -69,7 +69,7 @@ Depends:bzip2 (>=1.0.4-1)
 Description:Decodes and correctly filetypes ROOL archives
 Size:42452
 MD5Sum:237070a219bbcde16ae0f8425127f455
-URL:http://www4.webng.com/resurgam/Packages/EzROOL_0.00.ZIP
+URL:http://resurgam-riscos.github.io/Packages/EzROOL_0.00.ZIP
 
 Package:EzROOL
 Section:File
@@ -82,7 +82,7 @@ Depends:bzip2 (>=1.0.4-1)
 Description:Decodes and correctly filetypes ROOL archives
 Size:44061
 MD5Sum:b816512b6cfca20cc08f87ef8f9d9922
-URL:http://www4.webng.com/resurgam/Packages/EzROOL_0.01.ZIP
+URL:http://resurgam-riscos.github.io/Packages/EzROOL_0.01.ZIP
 
 Package:Hatari
 Section:Emulation
@@ -94,7 +94,7 @@ Version:0.90
 Description:Accurate Machine level Atari ST Emulator
 Size:1191626
 MD5Sum:51c1891feb59dcd583b998c5062ef05a
-URL:http://www4.webng.com/resurgam/Packages/Hatari_0.90.ZIP
+URL:http://resurgam-riscos.github.io/Packages/Hatari_0.90.ZIP
 
 Package:Hatari
 Section:Emulation
@@ -106,7 +106,7 @@ Version:0.95
 Description:Accurate Machine level Atari ST Emulator
 Size:1255889
 MD5Sum:c860a9222f8786d801f06ea23e0c3e70
-URL:http://www4.webng.com/resurgam/Packages/Hatari_0.95.ZIP
+URL:http://resurgam-riscos.github.io/Packages/Hatari_0.95.ZIP
 
 Package:Hatari
 Section:Emulation
@@ -118,7 +118,7 @@ Version:1.0.0p
 Description:Accurate Machine level Atari ST Emulator
 Size:1369807
 MD5Sum:2d72d5f8372695d2da9f5e6b81d6fcb5
-URL:http://www4.webng.com/resurgam/Packages/Hatari_1.0.0p.ZIP
+URL:http://resurgam-riscos.github.io/Packages/Hatari_1.0.0p.ZIP
 
 Package:LM98Util
 Section:File
@@ -130,7 +130,7 @@ Version:1.02
 Description:Add/Remove LM98 file suffixes
 Size:23009
 MD5Sum:567e975ece70948f786d46bda8de7e46
-URL:http://www4.webng.com/resurgam/Packages/LM98Util_1.02.ZIP
+URL:http://resurgam-riscos.github.io/Packages/LM98Util_1.02.ZIP
 
 Package:LM98Util
 Section:File
@@ -142,7 +142,7 @@ Version:1.10
 Description:Add/Remove LM98 file suffixes
 Size:25516
 MD5Sum:3e8fbc2707431ec612751eed36fcd19e
-URL:http://www4.webng.com/resurgam/Packages/LM98Util_1.10.ZIP
+URL:http://resurgam-riscos.github.io/Packages/LM98Util_1.10.ZIP
 
 Package:LM98Util
 Section:File
@@ -154,7 +154,7 @@ Version:1.11
 Description:Add/Remove LM98 file suffixes
 Size:25703
 MD5Sum:b9db2967da81206c22c76a3b2819ea4f
-URL:http://www4.webng.com/resurgam/Packages/LM98Util_1.11.ZIP
+URL:http://resurgam-riscos.github.io/Packages/LM98Util_1.11.ZIP
 
 Package:MakeApp3
 Section:Development
@@ -166,7 +166,7 @@ Version:1.06
 Description:Convert BASIC to Absolute
 Size:26638
 MD5Sum:ecf7a2d874447000492ab5183ed3ae58
-URL:http://www4.webng.com/resurgam/Packages/MakeApp3_1.06.ZIP
+URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.06.ZIP
 
 Package:MakeApp3
 Section:Development
@@ -178,7 +178,7 @@ Version:1.08
 Description:Convert BASIC to Absolute
 Size:29170
 MD5Sum:6ca0b6632ab1c1f81d6d77242ba5c643
-URL:http://www4.webng.com/resurgam/Packages/MakeApp3_1.08.ZIP
+URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.08.ZIP
 
 Package:MakeApp3
 Section:Development
@@ -190,7 +190,7 @@ Version:1.09
 Description:Convert BASIC to Absolute
 Size:30234
 MD5Sum:27065ed8412cc9a937e134c848605689
-URL:http://www4.webng.com/resurgam/Packages/MakeApp3_1.09.ZIP
+URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.09.ZIP
 
 Package:MakeApp3
 Section:Development
@@ -202,7 +202,7 @@ Version:1.10
 Description:Convert BASIC to Absolute
 Size:30534
 MD5Sum:b3fe19757dc9df4437813460caf19140
-URL:http://www4.webng.com/resurgam/Packages/MakeApp3_1.10.ZIP
+URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.10.ZIP
 
 Package:MakeApp3
 Section:Development
@@ -214,7 +214,7 @@ Version:1.11
 Description:Convert BASIC to Absolute
 Size:30720
 MD5Sum:b9fbf4b5d062773f717b3a435ca23bb0
-URL:http://www4.webng.com/resurgam/Packages/MakeApp3_1.11.ZIP
+URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.11.ZIP
 
 Package:MakeApp3
 Section:Development
@@ -226,7 +226,7 @@ Version:1.12
 Description:Convert BASIC to Absolute
 Size:30922
 MD5Sum:176286dedc1cd1995b25f1eb570ab2ef
-URL:http://www4.webng.com/resurgam/Packages/MakeApp3_1.12.ZIP
+URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.12.ZIP
 
 Package:ROOLsrc
 Section:Development
@@ -238,7 +238,7 @@ Version:0.02
 Description:Generate source archive for return to ROOL
 Size:64955
 MD5Sum:58d79cf542a2a0f4c250c8a24308b339
-URL:http://www4.webng.com/resurgam/Packages/ROOLsrc_0.02.ZIP
+URL:http://resurgam-riscos.github.io/Packages/ROOLsrc_0.02.ZIP
 
 Package:ROOLsrc
 Section:Development
@@ -251,7 +251,7 @@ Depends:Zip (>=2.3-0)
 Description:Generate source archive for return to ROOL
 Size:28949
 MD5Sum:94935818c1253c540f1990531911f670
-URL:http://www4.webng.com/resurgam/Packages/ROOLsrc_0.03.ZIP
+URL:http://resurgam-riscos.github.io/Packages/ROOLsrc_0.03.ZIP
 
 Package:SimCoupe
 Section:Emulation
@@ -263,7 +263,7 @@ Version:1.00
 Description:Accurate machine level Sam Coupe emulator
 Size:460580
 MD5Sum:ce12e0275acc882bdda03ef77b8fd675
-URL:http://www4.webng.com/resurgam/Packages/SimCoupe_1.00.ZIP
+URL:http://resurgam-riscos.github.io/Packages/SimCoupe_1.00.ZIP
 
 Package:WrapAIF
 Section:Development
@@ -275,7 +275,7 @@ Version:1.06
 Description:Add AIF header to program
 Size:27381
 MD5Sum:fa5f950b0b6360c133e9db094c96c2a8
-URL:http://www4.webng.com/resurgam/Packages/WrapAIF_1.06.ZIP
+URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.06.ZIP
 
 Package:WrapAIF
 Section:Development
@@ -287,7 +287,7 @@ Version:1.08
 Description:Add AIF header to program
 Size:30372
 MD5Sum:ed9e55dbc03905921eacf46229aaf689
-URL:http://www4.webng.com/resurgam/Packages/WrapAIF_1.08.ZIP
+URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.08.ZIP
 
 Package:WrapAIF
 Section:Development
@@ -299,7 +299,7 @@ Version:1.09
 Description:Add AIF header to program
 Size:30541
 MD5Sum:0ab702456e1fa665a96e2e1e451a4184
-URL:http://www4.webng.com/resurgam/Packages/WrapAIF_1.09.ZIP
+URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.09.ZIP
 
 Package:WrapAIF
 Section:Development
@@ -311,5 +311,5 @@ Version:1.10
 Description:Add AIF header to program
 Size:30722
 MD5Sum:d1d5e5424456b1fe2ae1fb26692aff5c
-URL:http://www4.webng.com/resurgam/Packages/WrapAIF_1.10.ZIP
+URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.10.ZIP
 
