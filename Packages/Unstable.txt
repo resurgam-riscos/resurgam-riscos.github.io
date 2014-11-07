@@ -313,3 +313,15 @@ Size:30722
 MD5Sum:d1d5e5424456b1fe2ae1fb26692aff5c
 URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.10.ZIP
 
+Package:WrapAIF
+Section:Development
+Priority:Optional
+Licence:Non-Free
+Maintainer:James Lampard
+Standards-Version:0.1.0.0
+Version:1.11
+Description:Add AIF header to program
+Size:31948
+MD5Sum:e2b60295b56c7bdee20fc7fd4d88e155
+URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.11.ZIP
+
