@@ -1,4 +1,4 @@
-Package::ABCCLI
+Package:ABCCLI
 Section:Development
 Priority:Extra
 Licence:Non-Free
@@ -13,9 +13,9 @@ Description:Run ABC Compiler from command line (in a taskwindow)
  context.
 Size:22094
 MD5Sum:7a12a1248742e53c07cc660145bbb15a
-URL:http://resurgam-riscos.github.io/Packages/ABCCLI_1.04.ZIP
+URL: ./ABCCLI_1.04.ZIP
 
-Package::App2Bas
+Package:App2Bas
 Section:Development
 Priority:Optional
 Licence:Non-Free
@@ -30,9 +30,9 @@ Description:Extract BASIC from Absolute
  such programs.
 Size:42208
 MD5Sum:98284839b218277e5483a4512c0c6533
-URL:http://resurgam-riscos.github.io/Packages/App2Bas_1.18.ZIP
+URL: ./App2Bas_1.18.ZIP
 
-Package::Hatari
+Package:Hatari
 Section:Emulation
 Priority:Optional
 Licence:Free
@@ -42,9 +42,9 @@ Version:1.0.0p
 Description:Accurate Machine level Atari ST Emulator
 Size:1369807
 MD5Sum:2d72d5f8372695d2da9f5e6b81d6fcb5
-URL:http://resurgam-riscos.github.io/Packages/Hatari_1.0.0p.ZIP
+URL: ./Hatari_1.0.0p.ZIP
 
-Package::LM98Util
+Package:LM98Util
 Section:File
 Priority:Optional
 Licence:Non-Free
@@ -60,9 +60,9 @@ Description:Add/Remove LM98 file suffixes
  files in a specified directory and recursively through any subdirectories.
 Size:26223
 MD5Sum:c561db41b39eb4550048046bbe3b9dc6
-URL:http://resurgam-riscos.github.io/Packages/LM98Util_1.12.ZIP
+URL: ./LM98Util_1.12.ZIP
 
-Package::MakeApp3
+Package:MakeApp3
 Section:Development
 Priority:Optional
 Licence:Non-Free
@@ -79,9 +79,9 @@ Description:Convert BASIC file to Absolute AIF
  contents.
 Size:31391
 MD5Sum:aace899698db6c63db23f7cb7139a569
-URL:http://resurgam-riscos.github.io/Packages/MakeApp3_1.13.ZIP
+URL: ./MakeApp3_1.13.ZIP
 
-Package::ROOLsrc
+Package:ROOLsrc
 Section:Development
 Priority:Optional
 Licence:Non-Free
@@ -96,9 +96,9 @@ Description:Generate source archive for return to ROOL
  sending to ROOL.
 Size:30072
 MD5Sum:810c9d1c2d045016edba2360f1d7ecbd
-URL:http://resurgam-riscos.github.io/Packages/ROOLsrc_0.04.ZIP
+URL: ./ROOLsrc_0.04.ZIP
 
-Package::SimCoupe
+Package:SimCoupe
 Section:Emulation
 Priority:Optional
 Licence:Free
@@ -108,9 +108,9 @@ Version:1.00
 Description:Accurate machine level Sam Coupe emulator
 Size:460580
 MD5Sum:ce12e0275acc882bdda03ef77b8fd675
-URL:http://resurgam-riscos.github.io/Packages/SimCoupe_1.00.ZIP
+URL: ./SimCoupe_1.00.ZIP
 
-Package::WrapAIF
+Package:WrapAIF
 Section:Development
 Priority:Optional
 Licence:Non-Free
@@ -127,5 +127,5 @@ Description:Add AIF header to program
  From v0.30 WrapAIF also adds headers to transient utilities.
 Size:32399
 MD5Sum:0e7539ef3e903ef737d19ba2e2c87e94
-URL:http://resurgam-riscos.github.io/Packages/WrapAIF_1.12.ZIP
+URL: ./WrapAIF_1.12.ZIP
 
